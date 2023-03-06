@@ -1,1 +1,3 @@
 This is commit B1
+
+This is commit B2
